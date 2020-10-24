@@ -12,12 +12,14 @@ During the process of data analysis, everything went great expcet for couple thi
 ![](resources/Theater_Outcomes_vs_Launch.png) As we can see from above graph, the success of theater campaign started to rise in April and had reached the peak which is about 110 campaigns in May. The difference between success and failure of campagins maximized in May as well. The difference is relatively  small in the time period from January to April and from August to Decemeber comparing the the period from May to July which indicateds that the launch date would affect the result significantly specially in Summer from May to July. It is not playing a curcial role in the rest of the year.
 
 ### Analysis of Outcomes Based on Goals
-![](resources/Outcomes_vs_Goals.png)
+![](resources/Outcomes_vs_Goals.png) As the outcomes based on goals shown above with the blue line indicating the percentage successful while the green line and dark blue line indicating the percentage failed and percenage cancelled respectively. The chance of goal achieved sucessful is keep decreasing from about 80% tojust about 20% as the goal is from less than 1000 up to the range between 25,000 to 29,999 dollars.It roars up to about 70% chance of success when the goal ranged from 35,000 to 44,999 dollars. Once the goal is over 45,000 dollars, the chance of being successful becomes low again. As failure is complementary to success, the chance of goal failed is opposite as the goal succeeded.
+
+## Results
+
+### Conclusions about Outcomes Based on Launch Dates
 
 
 
-
-A
 Results
 What are two conclusions you can draw about the Outcomes based on Launch Date?
 
