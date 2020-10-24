@@ -16,15 +16,15 @@ During the process of data analysis, everything went great expcet for couple thi
 
 ## Results
 
-### Conclusions about Outcomes Based on Launch Dates
+### Conclusions about the Outcomes based on Launch Dates
+First of all, we should start the theater fundraising projects in Summer from May to August especially in May to maximize the chance of being successful. On the other hand, if we only observe the failed samples, we should try to aovid holding theater projects in October and December because of the gap difference of success and failure is realtively small so that it would be difficult to acheive the goal.
+
+### Conclusions about the Outcomes based on Goals
+It is better to set the goal within a reasonalbe range like from less than 1000 up to about 15,000 dollars. Despite when the range is from 35,000 to 44,999, the chance of meeting the goal is more than 60%, the chance decreases dramatically when the funding goal is over 45,000 dollars. The reason behind this is that when the amoung of funding goal is over some range, it is more diffuclt to accomplish the goal. We should set proper amount of funding goal base on different situations.
+
+### limitations of the dataset and recommendations for addtional tables and graphs
 
 
 
-Results
-What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-What can you conclude about the Outcomes based on Goals?
 
-What are some limitations of this dataset?
-
-What are some other possible tables and/or graphs that we could create?
